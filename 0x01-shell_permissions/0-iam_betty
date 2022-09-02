@@ -1,2 +1,2 @@
 #!/bin/bash
-chown owner_name file_name
+su betty
