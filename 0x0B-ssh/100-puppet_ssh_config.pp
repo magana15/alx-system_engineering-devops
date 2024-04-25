@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 #configure using puppet
-
-file { 'etc/ssh/ssh_config':
-  ensure => present,
-
-content =>"
-  #SSH client configuration
-  host*
-  IdentityFile ~/.ssh/school
-  PasswordAuthentification no
-
+file { '/etc/ssh/ssh_config':
+  ensure  => file,
+  owner   => 'ubuntu',
+  group   => 'ubuntu',
+  content => "
+# SSH client configuration
+Host *
+    IdentityFile ~/.ssh/school
+    PasswordAuthentication no
+",
 }
