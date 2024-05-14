@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# Script to install and configure Nginx to return "Hello World!" on the root path
+
+# Update package list and install Nginx
+apt-get update -y
+apt-get install nginx -y
+
+# Create a simple HTML page that returns "Hello World!"
+echo "Hello World!" > /var/www/html/index.html
+
+# Ensure Nginx is running
+service nginx start
+
+# Check if Nginx is listening on port 80
+if ! lsof -i:80 | grep nginx; then
+    echo "Nginx is not listening on port 80. Check the configuration."
+    exit 1
+fi
+
+echo "Nginx has been installed and configured to return 'Hello World!'"
