@@ -1,5 +1,5 @@
 # EduWear Postmortem: Uniform Color Mismatch Issue
-![Preventative Measures]()
+![postmortem](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXXnO_I-Agevzs-2nFKggrpEQz_JO1xsuiAA&s)
 ## Summary
 **Duration of the Outage:**  
 - **Start Time:** JUNE 7, 2024, 9:00 AM (EAT)
@@ -23,7 +23,7 @@
 - **2:00 PM:** Corrected the database with accurate color codes; instructed the production team to stop use of incorrect colors.
 - **3:00 PM:** Contacted affected customers to offer apologies and arrange free replacements.
 
-![Incident Timeline](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXXnO_I-Agevzs-2nFKggrpEQz_JO1xsuiAA&s)
+![Incident Timeline](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUeNFDPE0T65bFx96weQB0tEm4gZmcW1IEwA&s)
 
 ## Root Cause and Resolution
 ### Root Cause
