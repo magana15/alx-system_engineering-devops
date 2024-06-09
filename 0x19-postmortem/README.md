@@ -1,5 +1,5 @@
 # EduWear Postmortem: Uniform Color Mismatch Issue
-
+![Preventative Measures]()
 ## Summary
 **Duration of the Outage:**  
 - **Start Time:** JUNE 7, 2024, 9:00 AM (EAT)
@@ -23,7 +23,7 @@
 - **2:00 PM:** Corrected the database with accurate color codes; instructed the production team to stop use of incorrect colors.
 - **3:00 PM:** Contacted affected customers to offer apologies and arrange free replacements.
 
-![Incident Timeline](https://example.com/timeline_diagram.png)
+![Incident Timeline](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Finfographic-png-template-for-business-5-steps-modern-timeline-diagram-with-progress-arrows-presentation-vector-infographic-with-png-transparent-background%2F549138883&psig=AOvVaw2FcpZETYpoKvag7oKQZQoG&ust=1718030805067000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCVtNThzoYDFQAAAAAdAAAAABAE)
 
 ## Root Cause and Resolution
 ### Root Cause
@@ -53,7 +53,7 @@ The database was corrected with the accurate color codes. Production and shipmen
    - Enhance documentation detailing procedures for database updates and migrations.
    - Establish a routine audit process to verify the accuracy of critical data, including uniform color codes.
 
-![Preventative Measures](https://example.com/preventative_measures_diagram.png)
+![Preventative Measures](https://www.google.com/imgres?q=preventive%20measures%20png&imgurl=https%3A%2F%2Fwww.1jour1actu.com%2Fwp-content%2Fuploads%2F2021%2F09%2F828_Azam-1.png&imgrefurl=https%3A%2F%2Fwww.1jour1actu.com%2Fsante%2Fwhat-preventive-measures-should-we-use-in-class&docid=rthEXqq9aGMpWM&tbnid=23G8B-oC_ZFx5M&vet=12ahUKEwj_292Q5M6GAxUhVfEDHR3vAU8QM3oECEwQAA..i&w=959&h=477&hcb=2&ved=2ahUKEwj_292Q5M6GAxUhVfEDHR3vAU8QM3oECEwQAA)
 
 These measures will ensure the integrity and user trust are maintained in the EduWear app.
 
