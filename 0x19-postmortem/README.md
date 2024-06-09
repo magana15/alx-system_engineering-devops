@@ -23,7 +23,7 @@
 - **2:00 PM:** Corrected the database with accurate color codes; instructed the production team to stop use of incorrect colors.
 - **3:00 PM:** Contacted affected customers to offer apologies and arrange free replacements.
 
-![Incident Timeline](https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fimages%2Finfographic-png-template-for-business-5-steps-modern-timeline-diagram-with-progress-arrows-presentation-vector-infographic-with-png-transparent-background%2F549138883&psig=AOvVaw2FcpZETYpoKvag7oKQZQoG&ust=1718030805067000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCVtNThzoYDFQAAAAAdAAAAABAE)
+![Incident Timeline](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXXnO_I-Agevzs-2nFKggrpEQz_JO1xsuiAA&s)
 
 ## Root Cause and Resolution
 ### Root Cause
@@ -33,6 +33,7 @@ The primary issue was the incorrect updating of color codes during a database mi
 The database was corrected with the accurate color codes. Production and shipment of uniforms were halted to prevent further errors. Affected parents were contacted and offered free replacements.
 
 ## Corrective and Preventative Measures
+![Preventative Measures](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWkLBeBCxPQrNtsUTuDn_gsJiGxZtMqhlvZw&s)
 ### Improvements and Fixes
 - Enhance data validation procedures during and after migrations.
 - Improve documentation and procedures for verifying data accuracy.
@@ -51,9 +52,6 @@ The database was corrected with the accurate color codes. Production and shipmen
 3. **Long-Term Actions:**
    - Develop and integrate automated validation tools to ensure data integrity during migrations.
    - Enhance documentation detailing procedures for database updates and migrations.
-   - Establish a routine audit process to verify the accuracy of critical data, including uniform color codes.
-
-![Preventative Measures](https://www.google.com/imgres?q=preventive%20measures%20png&imgurl=https%3A%2F%2Fwww.1jour1actu.com%2Fwp-content%2Fuploads%2F2021%2F09%2F828_Azam-1.png&imgrefurl=https%3A%2F%2Fwww.1jour1actu.com%2Fsante%2Fwhat-preventive-measures-should-we-use-in-class&docid=rthEXqq9aGMpWM&tbnid=23G8B-oC_ZFx5M&vet=12ahUKEwj_292Q5M6GAxUhVfEDHR3vAU8QM3oECEwQAA..i&w=959&h=477&hcb=2&ved=2ahUKEwj_292Q5M6GAxUhVfEDHR3vAU8QM3oECEwQAA)
 
 These measures will ensure the integrity and user trust are maintained in the EduWear app.
 
